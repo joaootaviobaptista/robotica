@@ -94,7 +94,7 @@ filter: blur(153px);
     left: 50px;
     top: 554.39px;
     
-    background: linear-gradient(180deg, #FFFFFF 12.74%, rgba(215, 212, 255, 0.583333) 64.45%, rgba(160, 152, 255, 0) 116.16%);
+    background: linear-gradient(180deg, #350680 12.74%, rgba(50, 39, 204, 0.583) 64.45%, rgba(160, 152, 255, 0) 116.16%);
     background-blend-mode: soft-light;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 31px;
@@ -106,7 +106,7 @@ height: 371.22px;
 left: 406px;
 top: 554.39px;
 
-background: linear-gradient(180deg, #FFFFFF 12.74%, rgba(215, 212, 255, 0.583333) 64.45%, rgba(160, 152, 255, 0) 116.16%);
+background: linear-gradient(180deg, #350680 12.74%, rgba(50, 39, 204, 0.583) 64.45%, rgba(160, 152, 255, 0) 116.16%);
 background-blend-mode: soft-light;
 box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 border-radius: 31px;
@@ -118,7 +118,7 @@ border-radius: 31px;
         left: 762px;
         top: 554.39px;
         
-        background: linear-gradient(180deg, #FFFFFF 12.74%, rgba(215, 212, 255, 0.583333) 64.45%, rgba(160, 152, 255, 0) 116.16%);
+        background: linear-gradient(180deg, #350680 12.74%, rgba(50, 39, 204, 0.583) 64.45%, rgba(160, 152, 255, 0) 116.16%);
         background-blend-mode: soft-light;
         box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
         border-radius: 31px;
@@ -130,14 +130,17 @@ height: 371.22px;
 left: 1159px;
 top: 554.39px;
 
-background: linear-gradient(180deg, #FFFFFF 12.74%, rgba(215, 212, 255, 0.583333) 64.45%, rgba(160, 152, 255, 0) 116.16%);
+background: linear-gradient(180deg, #350680 12.74%, rgba(50, 39, 204, 0.583) 64.45%, rgba(160, 152, 255, 0) 116.16%);
 background-blend-mode: soft-light;
 box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 border-radius: 31px;
 
     }
 
-
+   .retangulo-todos{
+ 
+    
+   }
 
 
 
