@@ -137,10 +137,14 @@ border-radius: 31px;
 
     }
 
-   .retangulo-todos{
-
- 
+   
+   .rodape {
+    position: absolute;
+    width: 2000px;
+    height: 138px;
+    left: 0px;
+    top: 1800px;
     
+    background: #131030;
    }
-
 
