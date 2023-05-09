@@ -76,75 +76,110 @@ top: 216px;
 background: #2BFFF2;
 filter: blur(153px);
 }
-
-   .circulo3{
+   .sobrenos {
     position: absolute;
-width: 1456px;
-height: 459.7px;
-left: -30px;
-top: 539.13px;
+width: 332px;
+height: 44px;
+left: 770px;
+top: 497px;
+
+font-family: 'Outfit';
+font-weight: 700;
+font-size: 64px;
+line-height: 81px;
+
+color: #FFFFFF;
+   }
+   
+   .texto3 {
+    position: absolute;
+width: 545px;
+height: 120px;
+left: 770px;
+top: 583px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 30px;
+
+color: #FFFFFF;
+   }
+
+   .circulo3 {
+    position: absolute;
+width: 410px;
+height: 410px;
+left: -156px;
+top: 697px;
 
 background: #241D7A;
 filter: blur(153px);
    }
-   .retangulo2{
+
+   .projetos {
     position: absolute;
-    width: 255px;
-    height: 371.22px;
-    left: 50px;
-    top: 554.39px;
-    
-    background: linear-gradient(180deg, #350680 12.74%, rgba(50, 39, 204, 0.583) 64.45%, rgba(160, 152, 255, 0) 116.16%);
-    background-blend-mode: soft-light;
-    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 31px;
+width: 332px;
+height: 44px;
+left: 60px;
+top: 797px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 81px;
+
+color: #FFFFFF;
+
    }
-    .retangulo3{
-        position: absolute;
-width: 255px;
-height: 371.22px;
-left: 406px;
-top: 554.39px;
-
-background: linear-gradient(180deg, #350680 12.74%, rgba(50, 39, 204, 0.583) 64.45%, rgba(160, 152, 255, 0) 116.16%);
-background-blend-mode: soft-light;
-box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-border-radius: 31px;
-    }
-    .retangulo4{
-        position: absolute;
-        width: 255px;
-        height: 371.22px;
-        left: 762px;
-        top: 554.39px;
-        
-        background: linear-gradient(180deg, #350680 12.74%, rgba(50, 39, 204, 0.583) 64.45%, rgba(160, 152, 255, 0) 116.16%);
-        background-blend-mode: soft-light;
-        box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-        border-radius: 31px;
-    }
-    .retangulo5{
-        position: absolute;
-width: 255px;
-height: 371.22px;
-left: 1159px;
-top: 554.39px;
-
-background: linear-gradient(180deg, #350680 12.74%, rgba(50, 39, 204, 0.583) 64.45%, rgba(160, 152, 255, 0) 116.16%);
-background-blend-mode: soft-light;
-box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-border-radius: 31px;
-
-    }
-
-   
-   .rodape {
+   .projetotexto{
     position: absolute;
-    width: 2000px;
-    height: 138px;
-    left: 0px;
-    top: 1800px;
-    
-    background: #131030;
-   }
+width: 558px;
+height: 30px;
+left: 60px;
+top: 890px;
 
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+   }
+   .retangulop{
+    position: absolute;
+width: 273px;
+height: 394px;
+left: 55px;
+top: 969px;
+background: #B9B9B9;
+border-radius: 22px;
+   } .retangulomenor {
+    position: absolute;
+width: 273px;
+height: 86.43px;
+left: 55px;
+top: 1224px;
+background: #171422;
+   } .retangulomenor2{
+    position: absolute;
+width: 273px;
+height: 106.03px;
+left: 55px;
+top: 1256.97px;
+background: #171422;
+border-radius: 22px;
+   }
+   .camadas{
+    position: absolute;
+width: 31px;
+height: 31px;
+left: 63px;
+top: 1232px; }
+
+
+ 
