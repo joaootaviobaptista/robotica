@@ -80,7 +80,7 @@ filter: blur(153px);
     position: absolute;
 width: 332px;
 height: 44px;
-left: 770px;
+left: 900px;
 top: 497px;
 
 font-family: 'Outfit';
@@ -95,7 +95,7 @@ color: #FFFFFF;
     position: absolute;
 width: 545px;
 height: 120px;
-left: 770px;
+left: 900px;
 top: 583px;
 
 font-family: 'Outfit';
@@ -121,8 +121,8 @@ filter: blur(153px);
    .projetos {
     position: absolute;
 width: 332px;
-height: 44px;
-left: 60px;
+height: 142px;
+left: 175px;
 top: 797px;
 
 font-family: 'Outfit';
@@ -137,8 +137,8 @@ color: #FFFFFF;
    .projetotexto{
     position: absolute;
 width: 558px;
-height: 30px;
-left: 60px;
+height: 142px;
+left: 175px;
 top: 890px;
 
 font-family: 'Outfit';
@@ -156,7 +156,8 @@ width: 273px;
 height: 394px;
 left: 55px;
 top: 969px;
-background: #B9B9B9;
+background:#1A182E
+;
 border-radius: 22px;
    } .retangulomenor {
     position: absolute;
@@ -180,6 +181,83 @@ width: 31px;
 height: 31px;
 left: 63px;
 top: 1232px; }
+.codigos {
+    position: absolute;
+width: 320px;
+height: 340px;
+left: 593px;
+top: 1630px;
+background: #1A182E;
+border-radius: 15px;
+}
+.ferramenta{
+    position: absolute;
+width: 320px;
+height: 340px;
+left: 951px;
+top: 1724px;
+background: #1A182E;
+border-radius: 15px;
+}
+.galeriafotos {
+    position: absolute;
+width: 320px;
+height: 340px;
+left: 238px;
+top: 1724px;
+background: #1A182E;
+border-radius: 15px;
+}
+.ferramentatexto{
+    position: absolute;
+width: 189px;
+height: 80px;
+left: 303px;
+top: 1930px;
 
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+
+color: #FFFFFF;
+}
+.codigotexto{
+    position: absolute;
+    width: 262px;
+    height: 40px;
+    left: 692px;
+    top: 1842px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    color: #FFFFFF
+}
+.galeriatexto{
+    position: absolute;
+width: 250px;
+height: 32px;
+left: 994px;
+top: 1938px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+}
+.braco-robo{
+    position: absolute;
+width: 112px;
+height: 112px;
+left: 328px;
+top: 1786px;
+}
 
  
